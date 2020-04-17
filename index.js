@@ -12,10 +12,6 @@ ________________________________________________________________*/
 
 // Your code here
 
-
-
-
-
 /*________________________________________________________________
 Part 2.) The Hidden Message
 
@@ -24,8 +20,4 @@ element. Use JavaScript to inject the paragragh's inner HTML with a
 string containing whatever text you want.
 ________________________________________________________________*/
 
-// Your code here 
-
-
-
-
+// Your code here
